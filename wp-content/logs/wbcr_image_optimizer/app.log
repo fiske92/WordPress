@@ -1,0 +1,755 @@
+
+20-08-2022 16:20:28 [afisic.wppsbootcamp.com][info] Parent plugin start installation!
+20-08-2022 16:20:28 [afisic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+20-08-2022 16:20:28 [afisic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+20-08-2022 16:20:43 [afisic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/afisic/public_html/portfolio/wp-content/uploads/wio_backup)
+-------------------------------
+20-08-2022 16:20:57 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:20:57 [afisic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/afisic/public_html/portfolio/wp-content/uploads/wio_backup/2022/08)
+20-08-2022 16:20:57 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-300x200.jpg) to a remote server (server_1).
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;164&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:435776,&quot;final_size&quot;:214699,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:416932,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012458}
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:20:58 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3.png) to a remote server (server_1).
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-150x150.png) to a remote server (server_1).
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-212x300.png) to a remote server (server_1).
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;263&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:115486,&quot;final_size&quot;:38021,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:65433,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012459}
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent.png) to a remote server (server_1).
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:20:59 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:00 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:00 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent-300x300.png) to a remote server (server_1).
+20-08-2022 16:21:00 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:00 [afisic.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;288&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:56905,&quot;final_size&quot;:19535,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:33644,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012460}
+20-08-2022 16:21:00 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+20-08-2022 16:21:00 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:00 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section.png) to a remote server (server_1).
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section-300x169.png) to a remote server (server_1).
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;584&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:29396,&quot;final_size&quot;:11154,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:25010,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012461}
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308.jpg) to a remote server (server_1).
+20-08-2022 16:21:01 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:02 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:21:02 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:02 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308-225x300.jpg) to a remote server (server_1).
+20-08-2022 16:21:02 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:02 [afisic.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;610&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:243577,&quot;final_size&quot;:234652,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:232815,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012462}
+20-08-2022 16:21:02 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+20-08-2022 16:21:02 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:02 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection.png) to a remote server (server_1).
+20-08-2022 16:21:03 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:03 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:03 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:03 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection-300x169.png) to a remote server (server_1).
+20-08-2022 16:21:03 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:03 [afisic.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;635&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:28966,&quot;final_size&quot;:10690,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:24845,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012463}
+20-08-2022 16:21:03 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+20-08-2022 16:21:03 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-300x225.jpg) to a remote server (server_1).
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;659&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:193595,&quot;final_size&quot;:94286,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:185339,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012464}
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+20-08-2022 16:21:04 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:05 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket.png) to a remote server (server_1).
+20-08-2022 16:21:05 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:05 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:05 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:06 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket-212x300.png) to a remote server (server_1).
+20-08-2022 16:21:06 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:06 [afisic.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;711&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:84691,&quot;final_size&quot;:31262,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:72155,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012466}
+20-08-2022 16:21:06 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+20-08-2022 16:21:06 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:06 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404.png) to a remote server (server_1).
+20-08-2022 16:21:07 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:07 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:07 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:07 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404-212x300.png) to a remote server (server_1).
+20-08-2022 16:21:07 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:07 [afisic.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;713&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:114563,&quot;final_size&quot;:39018,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:93413,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012467}
+20-08-2022 16:21:07 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+20-08-2022 16:21:07 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-300x200.jpg) to a remote server (server_1).
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;750&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:294702,&quot;final_size&quot;:138222,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:280261,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012468}
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+20-08-2022 16:21:08 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:09 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign.png) to a remote server (server_1).
+20-08-2022 16:21:09 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:09 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:09 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign-300x169.png) to a remote server (server_1).
+20-08-2022 16:21:09 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:09 [afisic.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;788&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:65371,&quot;final_size&quot;:18330,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:60743,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012469}
+20-08-2022 16:21:09 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+20-08-2022 16:21:10 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:10 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:21:10 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:10 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:21:10 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:10 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-200x300.jpg) to a remote server (server_1).
+20-08-2022 16:21:10 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:11 [afisic.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;839&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:367319,&quot;final_size&quot;:123039,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:361092,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012470}
+20-08-2022 16:21:11 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+20-08-2022 16:21:11 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:11 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization.png) to a remote server (server_1).
+20-08-2022 16:21:12 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:12 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:12 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:12 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization-300x169.png) to a remote server (server_1).
+20-08-2022 16:21:12 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:12 [afisic.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;840&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:67316,&quot;final_size&quot;:24479,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:58073,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012472}
+20-08-2022 16:21:12 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+20-08-2022 16:21:12 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:13 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:21:13 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:13 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:21:13 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:13 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-300x200.jpg) to a remote server (server_1).
+20-08-2022 16:21:13 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:13 [afisic.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;848&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:494408,&quot;final_size&quot;:194193,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:479073,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012473}
+20-08-2022 16:21:13 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+20-08-2022 16:21:14 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:14 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section.png) to a remote server (server_1).
+20-08-2022 16:21:14 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:14 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:14 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:14 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section-300x169.png) to a remote server (server_1).
+20-08-2022 16:21:14 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;849&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:63163,&quot;final_size&quot;:20132,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:57082,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012475}
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/quino-al-4SNUcHPiC8c-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/quino-al-4SNUcHPiC8c-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/quino-al-4SNUcHPiC8c-unsplash-300x200.jpg) to a remote server (server_1).
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;971&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:122470,&quot;final_size&quot;:73040,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:114732,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012475}
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+20-08-2022 16:21:15 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:16 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact.png) to a remote server (server_1).
+20-08-2022 16:21:16 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:16 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:17 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:17 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact-300x169.png) to a remote server (server_1).
+20-08-2022 16:21:17 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:17 [afisic.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1020&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:38225,&quot;final_size&quot;:13810,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:32954,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012477}
+20-08-2022 16:21:17 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+20-08-2022 16:21:17 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:17 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1.png) to a remote server (server_1).
+20-08-2022 16:21:18 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:18 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:18 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:18 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:21:19 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:19 [afisic.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1122&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:486511,&quot;final_size&quot;:191338,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:396049,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012479}
+20-08-2022 16:21:19 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+20-08-2022 16:21:19 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:19 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2.png) to a remote server (server_1).
+20-08-2022 16:21:20 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:20 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:20 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:20 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2-300x225.png) to a remote server (server_1).
+20-08-2022 16:21:20 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:20 [afisic.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1133&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:445380,&quot;final_size&quot;:199454,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:367379,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012480}
+20-08-2022 16:21:20 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1.png) to a remote server (server_1).
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1183&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:58319,&quot;final_size&quot;:26201,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:39544,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012481}
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:21 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1.png) to a remote server (server_1).
+20-08-2022 16:21:22 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:22 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:23 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:23 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:21:23 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:23 [afisic.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1220&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:517789,&quot;final_size&quot;:245639,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:412972,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012483}
+20-08-2022 16:21:23 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+20-08-2022 16:21:23 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:23 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1.png) to a remote server (server_1).
+20-08-2022 16:21:23 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1229&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:61722,&quot;final_size&quot;:25099,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:44032,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012484}
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1.png) to a remote server (server_1).
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:24 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:21:25 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:25 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:21:25 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:21:25 [afisic.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1261&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:49597,&quot;final_size&quot;:19678,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:35730,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661012485}
+20-08-2022 16:21:25 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+20-08-2022 16:21:35 [afisic.wppsbootcamp.com][info] Parent plugin start deactivation!
+20-08-2022 16:21:35 [afisic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
+20-08-2022 16:50:46 [afisic.wppsbootcamp.com][info] Parent plugin start installation!
+20-08-2022 16:50:46 [afisic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+20-08-2022 16:50:47 [afisic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+20-08-2022 16:50:55 [afisic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/afisic/public_html/portfolio/wp-content/uploads/wio_backup)
+-------------------------------
+20-08-2022 16:51:32 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:32 [afisic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/afisic/public_html/portfolio/wp-content/uploads/wio_backup/2022/08)
+20-08-2022 16:51:32 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:51:32 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:32 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-300x200.jpg) to a remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;164&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:213277,&quot;final_size&quot;:213277,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:194433,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014293}
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3.png) to a remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-212x300.png) to a remote server (server_1).
+20-08-2022 16:51:33 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;263&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:38021,&quot;final_size&quot;:37976,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:20812,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014294}
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent.png) to a remote server (server_1).
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent-300x300.png) to a remote server (server_1).
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;288&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:19535,&quot;final_size&quot;:19449,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:9984,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014294}
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:34 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section.png) to a remote server (server_1).
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section-300x169.png) to a remote server (server_1).
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;584&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:11154,&quot;final_size&quot;:11154,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:9315,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014295}
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308.jpg) to a remote server (server_1).
+20-08-2022 16:51:35 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308-225x300.jpg) to a remote server (server_1).
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;610&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:234652,&quot;final_size&quot;:234652,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:223890,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014296}
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection.png) to a remote server (server_1).
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:36 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection-300x169.png) to a remote server (server_1).
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;635&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:10690,&quot;final_size&quot;:10690,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:8801,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014297}
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][error] Error to optimize attachment (ID: #659). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1600x1200
+	-&gt; Relative path: 2022/08/jess-bailey-l3N9Q27zULw-unsplash-scaled.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x225, MIME type: image/jpeg
+		-&gt; Type: large, size: 1024x768, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x576, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1536x1152, MIME type: image/jpeg
+		-&gt; Type: 2048x2048, size: 2048x1536, MIME type: image/jpeg
+
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;659&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014297}
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][error] Failed to process (url: https://afisic.wppsbootcamp.com/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-scaled.jpg, path: /home/afisic/public_html/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-scaled.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:37 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket.png) to a remote server (server_1).
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket-212x300.png) to a remote server (server_1).
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;711&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:31262,&quot;final_size&quot;:31225,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:25915,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014298}
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404.png) to a remote server (server_1).
+20-08-2022 16:51:38 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404-212x300.png) to a remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;713&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:39018,&quot;final_size&quot;:38996,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:31743,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014299}
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:39 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-300x200.jpg) to a remote server (server_1).
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;750&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:135365,&quot;final_size&quot;:135365,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:120924,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014300}
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign.png) to a remote server (server_1).
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign-300x169.png) to a remote server (server_1).
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;788&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:22043,&quot;final_size&quot;:20308,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:15974,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014300}
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:40 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-200x300.jpg) to a remote server (server_1).
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;839&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:121070,&quot;final_size&quot;:121070,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:114843,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014301}
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization.png) to a remote server (server_1).
+20-08-2022 16:51:41 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization-300x169.png) to a remote server (server_1).
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;840&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:24479,&quot;final_size&quot;:24479,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:20886,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014302}
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:51:42 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:43 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:51:43 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:43 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-300x200.jpg) to a remote server (server_1).
+20-08-2022 16:51:43 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:43 [afisic.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;848&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:193139,&quot;final_size&quot;:193139,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:177804,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014303}
+20-08-2022 16:51:43 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+20-08-2022 16:51:43 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:43 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section.png) to a remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section-300x169.png) to a remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;849&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:20132,&quot;final_size&quot;:20132,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:17572,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014304}
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/quino-al-4SNUcHPiC8c-unsplash-scaled.jpg) to a remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/quino-al-4SNUcHPiC8c-unsplash-150x150.jpg) to a remote server (server_1).
+20-08-2022 16:51:44 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/quino-al-4SNUcHPiC8c-unsplash-300x200.jpg) to a remote server (server_1).
+20-08-2022 16:51:45 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:45 [afisic.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;971&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:66903,&quot;final_size&quot;:66903,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:61525,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014305}
+20-08-2022 16:51:45 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+20-08-2022 16:51:45 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:45 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact.png) to a remote server (server_1).
+20-08-2022 16:51:45 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:45 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:45 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:46 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact-300x169.png) to a remote server (server_1).
+20-08-2022 16:51:46 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:46 [afisic.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1020&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:13810,&quot;final_size&quot;:13810,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:11593,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014306}
+20-08-2022 16:51:46 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+20-08-2022 16:51:47 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:47 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1.png) to a remote server (server_1).
+20-08-2022 16:51:48 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:48 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:48 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1122&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:191338,&quot;final_size&quot;:191266,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:159992,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014309}
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2.png) to a remote server (server_1).
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:49 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2-300x225.png) to a remote server (server_1).
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1133&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:176733,&quot;final_size&quot;:176299,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:165726,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014310}
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1.png) to a remote server (server_1).
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1183&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:26201,&quot;final_size&quot;:26154,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:17110,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014310}
+20-08-2022 16:51:50 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+20-08-2022 16:51:51 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:51 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1.png) to a remote server (server_1).
+20-08-2022 16:51:51 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1220&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:245639,&quot;final_size&quot;:245599,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:207339,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014312}
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1.png) to a remote server (server_1).
+20-08-2022 16:51:52 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1229&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:25099,&quot;final_size&quot;:24116,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:17417,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014313}
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1.png) to a remote server (server_1).
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:53 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1-150x150.png) to a remote server (server_1).
+20-08-2022 16:51:54 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:54 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1-300x225.png) to a remote server (server_1).
+20-08-2022 16:51:54 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+20-08-2022 16:51:54 [afisic.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1261&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:19678,&quot;final_size&quot;:19649,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:13559,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661014314}
+20-08-2022 16:51:54 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+20-08-2022 17:05:13 [afisic.wppsbootcamp.com][info] Parent plugin start deactivation!
+20-08-2022 17:05:13 [afisic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
+21-08-2022 23:18:51 [afisic.wppsbootcamp.com][info] Parent plugin start installation!
+21-08-2022 23:18:51 [afisic.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+21-08-2022 23:18:51 [afisic.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+21-08-2022 23:19:02 [afisic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/afisic/public_html/portfolio/wp-content/uploads/wio_backup)
+-------------------------------
+21-08-2022 23:19:10 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:10 [afisic.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/afisic/public_html/portfolio/wp-content/uploads/wio_backup/2022/08)
+21-08-2022 23:19:10 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-scaled.jpg) to a remote server (server_1).
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-150x150.jpg) to a remote server (server_1).
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-300x200.jpg) to a remote server (server_1).
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;164&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:213277,&quot;final_size&quot;:213277,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:194433,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123951}
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3.png) to a remote server (server_1).
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:11 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/hero3-212x300.png) to a remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;263&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:37976,&quot;final_size&quot;:37976,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:20799,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123952}
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent.png) to a remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/logo6transparent-300x300.png) to a remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;288&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:19449,&quot;final_size&quot;:19449,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:9981,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123952}
+21-08-2022 23:19:12 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+21-08-2022 23:19:13 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:13 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section.png) to a remote server (server_1).
+21-08-2022 23:19:13 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:13 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:13 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:13 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/project-section-300x169.png) to a remote server (server_1).
+21-08-2022 23:19:13 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;584&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:11154,&quot;final_size&quot;:11154,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:9315,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123954}
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308.jpg) to a remote server (server_1).
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308-150x150.jpg) to a remote server (server_1).
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/IMG_5308-225x300.jpg) to a remote server (server_1).
+21-08-2022 23:19:14 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;610&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:234652,&quot;final_size&quot;:234652,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:223890,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123955}
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection.png) to a remote server (server_1).
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/aboutSection-300x169.png) to a remote server (server_1).
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;635&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:10690,&quot;final_size&quot;:10690,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:8801,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123955}
+21-08-2022 23:19:15 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-scaled.jpg) to a remote server (server_1).
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-150x150.jpg) to a remote server (server_1).
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/jess-bailey-l3N9Q27zULw-unsplash-300x225.jpg) to a remote server (server_1).
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;659&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:91417,&quot;final_size&quot;:91417,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:83161,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123956}
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:16 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket.png) to a remote server (server_1).
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/rocket-212x300.png) to a remote server (server_1).
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;711&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:31225,&quot;final_size&quot;:31225,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:25893,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123957}
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:17 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404.png) to a remote server (server_1).
+21-08-2022 23:19:18 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:18 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:18 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:18 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/404-212x300.png) to a remote server (server_1).
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;713&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:38996,&quot;final_size&quot;:38996,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:31725,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123959}
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-scaled.jpg) to a remote server (server_1).
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-150x150.jpg) to a remote server (server_1).
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/kelly-sikkema-v9FQR4tbIq8-unsplash-300x200.jpg) to a remote server (server_1).
+21-08-2022 23:19:19 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;750&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:135365,&quot;final_size&quot;:135365,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:120924,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123960}
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign.png) to a remote server (server_1).
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/servicesDesign-300x169.png) to a remote server (server_1).
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;788&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:20308,&quot;final_size&quot;:20308,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:15973,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123960}
+21-08-2022 23:19:20 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-scaled.jpg) to a remote server (server_1).
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-150x150.jpg) to a remote server (server_1).
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/bill-jelen-NVWyN8GamCk-unsplash-200x300.jpg) to a remote server (server_1).
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;839&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:121070,&quot;final_size&quot;:121070,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:114843,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123961}
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:21 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization.png) to a remote server (server_1).
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/optimization-300x169.png) to a remote server (server_1).
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;840&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:24479,&quot;final_size&quot;:24479,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:20886,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123962}
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:22 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-scaled.jpg) to a remote server (server_1).
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-150x150.jpg) to a remote server (server_1).
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/elisa-ventur-bmJAXAz6ads-unsplash-300x200.jpg) to a remote server (server_1).
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;848&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:193139,&quot;final_size&quot;:193139,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:177804,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123963}
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section.png) to a remote server (server_1).
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][error] Error to optimize attachment (ID: #849). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1600x900
+	-&gt; Relative path: 2022/08/error-section.png
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: medium, size: 300x169, MIME type: image/png
+		-&gt; Type: large, size: 1024x576, MIME type: image/png
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/png
+		-&gt; Type: medium_large, size: 768x432, MIME type: image/png
+		-&gt; Type: 1536x1536, size: 1536x864, MIME type: image/png
+
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;849&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123963}
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][error] Failed to process (url: https://afisic.wppsbootcamp.com/portfolio/wp-content/uploads/2022/08/error-section.png, path: /home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section.png, quality: 90) as error was returned: Cannot copy from uploaded file
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:23 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact.png) to a remote server (server_1).
+21-08-2022 23:19:24 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:24 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:24 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:24 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/contact-300x169.png) to a remote server (server_1).
+21-08-2022 23:19:24 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:24 [afisic.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1020&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:13810,&quot;final_size&quot;:13810,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:11593,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123964}
+21-08-2022 23:19:24 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1.png) to a remote server (server_1).
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-1-300x225.png) to a remote server (server_1).
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1122&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:191266,&quot;final_size&quot;:191266,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:159929,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123965}
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:25 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2.png) to a remote server (server_1).
+21-08-2022 23:19:26 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:26 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:26 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:26 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Prenociste-Lotos-depandans-2-300x225.png) to a remote server (server_1).
+21-08-2022 23:19:26 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:26 [afisic.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1133&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:199020,&quot;final_size&quot;:199010,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:165292,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123966}
+21-08-2022 23:19:26 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1.png) to a remote server (server_1).
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/AF-_-Rock-Paper-Scissors-1-300x225.png) to a remote server (server_1).
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1183&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:26154,&quot;final_size&quot;:26154,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:17095,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123967}
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:27 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1.png) to a remote server (server_1).
+21-08-2022 23:19:28 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Digitel-1-300x225.png) to a remote server (server_1).
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1220&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:245599,&quot;final_size&quot;:245599,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:207339,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123969}
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1.png) to a remote server (server_1).
+21-08-2022 23:19:29 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Converter-1-300x225.png) to a remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1229&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:24116,&quot;final_size&quot;:24116,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:16577,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123970}
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1.png) to a remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1-150x150.png) to a remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:30 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/Budget-app-1-300x225.png) to a remote server (server_1).
+21-08-2022 23:19:31 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:31 [afisic.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1261&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:19649,&quot;final_size&quot;:19649,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:13553,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123971}
+21-08-2022 23:19:31 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+21-08-2022 23:19:31 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:19:31 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/mt-sample-background.jpg) to a remote server (server_1).
+21-08-2022 23:19:31 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:32 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/mt-sample-background-150x150.jpg) to a remote server (server_1).
+21-08-2022 23:19:32 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:32 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/mt-sample-background-300x200.jpg) to a remote server (server_1).
+21-08-2022 23:19:32 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:19:32 [afisic.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;1731&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:227232,&quot;final_size&quot;:135882,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:217593,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661123972}
+21-08-2022 23:19:32 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+21-08-2022 23:20:34 [afisic.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+21-08-2022 23:20:34 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section.png) to a remote server (server_1).
+21-08-2022 23:20:34 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:20:34 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section-150x150.png) to a remote server (server_1).
+21-08-2022 23:20:34 [afisic.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+21-08-2022 23:20:34 [afisic.wppsbootcamp.com][info] Preparing to upload a file (/home/afisic/public_html/portfolio/wp-content/uploads/2022/08/error-section-300x169.png) to a remote server (server_1).
+21-08-2022 23:20:34 [afisic.wppsbootcamp.com][debug] New queue created #24, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;849&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:18702,&quot;final_size&quot;:18702,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:17572,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1661124034}
+21-08-2022 23:20:34 [afisic.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+21-08-2022 23:20:57 [afisic.wppsbootcamp.com][info] Parent plugin start deactivation!
+21-08-2022 23:20:57 [afisic.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
