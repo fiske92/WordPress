@@ -48,6 +48,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 </a>
 
 <div
+
 <?php
 	echo astra_attr(
 		'site',
@@ -68,5 +69,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 	astra_content_before();
 	?>
 	<div id="content" class="site-content">
-		<div class="ast-container">
+		<div class="ast-container>
+
 		<?php astra_content_top(); ?>
