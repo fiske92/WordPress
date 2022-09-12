@@ -1,4 +1,3 @@
-
 # User manual:
 
  1. Clone the repository.
